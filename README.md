@@ -21,9 +21,11 @@
 
 ###
 
-<p align="left">I am an aspiring Data Scientist with a strong academic background in statistics, mathematics, and programming. I enjoy exploring data, identifying patterns, and using insights to support smart decisions. I have hands-on experience with tools like Excel, Power BI, and Python for data analysis and visualization.
+<p align="left">I am an aspiring Data Scientist with a strong academic background in statistics, mathematics, and programming. I enjoy exploring data, identifying patterns, and using insights to support smart decisions. I have 
+hands-on experience with tools like Excel, Power BI, and Python for data analysis and visualization.
 
-Currently, I am focused on building my skills in data analysis through real-time projects and continuous learning. I am eager to contribute to data-driven teams and grow in a challenging, collaborative environment.</p>
+Currently, I am focused on building my skills in data analysis through real-time projects and continuous learning.
+I am eager to contribute to data-driven teams and grow in a challenging, collaborative environment.</p>
 
 ###
 
