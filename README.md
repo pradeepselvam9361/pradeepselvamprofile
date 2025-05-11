@@ -21,7 +21,9 @@
 
 ###
 
-<p align="left">Junior Developer skilled in Java and Python.<br>Completed Python Essential Training and Java Essential Training: Syntax and Structure.<br>Participated in technical symposiums and hands-on workshops for real-world exposure.<br>Fast learner, passionate about technology and innovation, actively seeking a full-time role to contribute and grow.</p>
+<p align="left">I am an aspiring Data Scientist with a strong academic background in statistics, mathematics, and programming. I enjoy exploring data, identifying patterns, and using insights to support smart decisions. I have hands-on experience with tools like Excel, Power BI, and Python for data analysis and visualization.
+
+Currently, I am focused on building my skills in data analysis through real-time projects and continuous learning. I am eager to contribute to data-driven teams and grow in a challenging, collaborative environment.</p>
 
 ###
 
@@ -30,14 +32,18 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
 </div>
+
+
 
 ###
 
