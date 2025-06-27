@@ -21,11 +21,13 @@
 
 ###
 
-<p align="left">I am an aspiring Data Scientist with a strong academic background in statistics, mathematics, and programming. I enjoy exploring data, identifying patterns, and using insights to support smart decisions. I have 
-hands-on experience with tools like Excel, Power BI, and Python for data analysis and visualization.
+<p align = "left">I am a recent graduate in Information Technology from Velammal Institute of Technology affiliated to Anna University, with a strong interest in data and its ability to create impact.</p>
 
-Currently, I am focused on building my skills in data analysis through real-time projects and continuous learning.
-I am eager to contribute to data-driven teams and grow in a challenging, collaborative environment.</p>
+<p align = "left">I enjoy exploring data, finding useful insights, and turning them into clear and simple stories that support better decisions. I believe data can solve real-world problems, and I’m excited to be part of that journey.</p>
+
+<p align = "left">I’m looking for an opportunity as a Junior Data Analyst, where I can learn from real-time projects, grow with a team, and contribute to meaningful outcomes.</p>
+
+<p align = "left">I’m open to new opportunities and always eager to learn and improve.</p>
 
 ###
 
